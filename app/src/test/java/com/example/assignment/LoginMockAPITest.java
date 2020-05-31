@@ -17,7 +17,7 @@ public class LoginMockAPITest {
         LoginRequest loginRequest = new LoginRequest("super_admin","12345678");
         LoginResponse loginResponse = new LoginResponse();
         loginResponse.setStatusCode(200);
-        loginResponse.setToken("VwvYXBpXC9");
+        loginResponse.setToken("VwvYXBpXC9das");
 
 
     }
